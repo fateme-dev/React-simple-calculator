@@ -8,6 +8,6 @@ In the project directory, you can run:
 ### `npm start`
 
 
-![image](/assets/cal-img.png)
+![calculator image](https://github.com/fateme-dev/React-simple-calculator/blob/main/src/assets/cal-img.png?raw=true)
 Format: ![Alt Text](url)
 
