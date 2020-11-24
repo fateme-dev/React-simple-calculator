@@ -1,0 +1,17 @@
+.number{
+    background-color: #EBECF0;
+    text-align: center;
+    margin: 8px 0;
+    padding: 15px;
+    font-size: 24px;
+    box-shadow:-5px -5px 20px #FFF, 5px 5px 20px #BABECC;
+    border-radius: 6px;
+    width: 20%;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.number:hover{
+    box-shadow: -2px -2px 5px #FFF, 2px 2px 5px #BABECC;
+    cursor: pointer;
+}

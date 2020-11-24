@@ -1,0 +1,29 @@
+.display{
+    width: 100%;
+    background-color: #EBECF0;
+    min-height: 100px;
+    border-radius: 12px;
+    box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #FFF;
+    text-align: right;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.statement{
+    color: rgb(110, 110, 110);
+    font-size: 12px;
+    overflow-wrap: break-word;
+
+}
+
+.current{
+    font-size: 28px;
+    color: rgb(48, 48, 48);
+    padding: 10px 0;
+
+}
